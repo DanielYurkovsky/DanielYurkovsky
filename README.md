@@ -4,9 +4,10 @@
 
 
 
-- 🌱 I am currently dedicating myself to learning and broadening my knowledge in **Kotlin and Jetpack Compose**
+- 🌱 My favourite thing in the world is to *tell a good story*.
 
-- 💬 Feel free to inquire about **Native Android Development** as it is an area I am knowledgeable about
+- 💬 I'm an **initiative**,**open minded**,collaborative human being.
+I love learning new things and am always up for interesting collaborations and challenges.
 
 <h3 align="center">Contact me</h3>
 <p align="center">
