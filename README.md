@@ -9,9 +9,6 @@
 - 💬 I'm an **Initiative**, **Open Minded**, collaborative human being.
 - ❤️ I love learning new things and am always up for interesting collaborations and challenges.
 
-https://i.pinimg.com/originals/5d/45/0c/5d450cd11bc125fe8bd2e0214110fb36.gif
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-yurkovsky-51a121205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-yurkovsky-51a121205/" height="30" width="40" /></a>
