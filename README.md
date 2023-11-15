@@ -2,7 +2,7 @@
 <h3 align="center">Graphic & Digital UX-UI Designer</h3>
 <h4 align="center">Photoshop / Illustrator / InDesign / Premiere / After Effects / Xd / Figma</h4>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/347174/screenshots/2958807/charlie-loader.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/amosgyamfi/svg-animation-files/blob/master/tree_swing.png?raw=true">
 
 
 - 🌱 My favourite thing in the world is to *tell a good story*.
