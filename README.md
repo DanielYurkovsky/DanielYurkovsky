@@ -1,3 +1,4 @@
+![logo](https://github.com/DanielYurkovsky/DanielYurkovsky/blob/main/386092777_10220054462106479_1760036354703993460_n.jpg)
 <h1 align="center">Hi 👋, I'm DANIEL YURKOVSKY</h1>
 <h3 align="center">Graphic & Digital UX-UI Designer</h3>
 <h4 align="center">Photoshop / Illustrator / InDesign / Premiere / After Effects / Xd / Figma</h4>
