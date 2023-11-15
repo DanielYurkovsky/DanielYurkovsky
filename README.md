@@ -2,7 +2,7 @@
 <h3 align="center">Graphic & Digital UX-UI Designer</h3>
 <h4 align="center">Photoshop / Illustrator / InDesign / Premiere / After Effects / Xd / Figma</h4>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/d61qUsi2IptoDk0q0W/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/0c696763393359.5ab4ecb5ec40c.gif">
 
 
 - 🌱 My favourite thing in the world is to *tell a good story*.
