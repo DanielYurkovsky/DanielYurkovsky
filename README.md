@@ -11,7 +11,7 @@
 
 <h3 align="center">Contact me</h3>
 <p align="center">
-<a href="https://linkedin.com/in/roman-michailov-b462621a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roman michailov" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/roman-michailov-b462621a4](https://www.linkedin.com/in/daniel-yurkovsky-51a121205/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roman michailov" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18159923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18159923" height="30" width="40" /></a>
 <a href="https://discord.gg/#8603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8603" height="30" width="40" /></a>
 </p>
