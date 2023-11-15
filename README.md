@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm DANIEL YURKOVSKY</h1>
 <h3 align="center">Graphic & Digital UX-UI Designer</h3>
-<h4 align="center">Photoshop / Illustrator / InDesign / Premiere / After Effects / Xd / Figma</h4>
+<h4 align="center">Photoshop / Illustrator / InDesign / Premiere / After Effects / Xd / Figma</h4> https://i.pinimg.com/originals/5d/45/0c/5d450cd11bc125fe8bd2e0214110fb36.gif
+
 
 
 
