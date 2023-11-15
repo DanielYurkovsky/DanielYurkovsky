@@ -7,7 +7,7 @@
 - 🌱 My favourite thing in the world is to *tell a good story*.
 
 - 💬 I'm an **Initiative**, **Open Minded**, collaborative human being.
-I love learning new things and am always up for interesting collaborations and challenges.
+- I love learning new things and am always up for interesting collaborations and challenges.
 
 <h3 align="center">Contact me</h3>
 <p align="center">
