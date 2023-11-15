@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Roman Michailov</h1>
+<h1 align="center">Hi 👋, I'm Daniel Yurkovsky</h1>
 <h3 align="center">Android Developer / Java / Kotlin / Jetpack Compose</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=roma321m&label=Profile%20views&color=0e75b6&style=flat" alt="roma321m" /> </p>
