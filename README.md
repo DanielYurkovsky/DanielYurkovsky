@@ -2,7 +2,6 @@
 <h3 align="center">Graphic & Digital UX-UI Designer</h3>
 <h4 align="center">Photoshop / Illustrator / InDesign / Premiere / After Effects / Xd / Figma</h4>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=roma321m&label=Profile%20views&color=0e75b6&style=flat" alt="roma321m" /> </p>
 
 
 - 🌱 I am currently dedicating myself to learning and broadening my knowledge in **Kotlin and Jetpack Compose**
